@@ -5,6 +5,7 @@ import {
   FETCH_USER_FAILURE,
 } from "./userType";
 
+// Added a comment
 export const fetchUserRequest = () => {
   return {
     type: FETCH_USER_REQUEST,
